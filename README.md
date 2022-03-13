@@ -1,5 +1,5 @@
 # Classification-model-on-Adult-income-dataset
-Objective & synopsis
+# Objective & synopsis
 The objective of this case study is to fit binary classifiers to predict whether an individual earns more than USD 50,000 (50K) or less in a year using the 1994 US Census Data sourced from the UCI Machine Learning Repository.
 
 The descriptive features include 4 numeric and 7 nominal categorical features. The target feature has two classes defined as "<=50K" and ">50K" respectively. The full dataset contains about 45K observations.
